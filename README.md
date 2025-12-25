@@ -122,7 +122,7 @@ The bot uses Selenium WebDriver to:
 - This tool automates the entry process but still follows the website's form submission rules
 - Make sure you meet all eligibility requirements for the sweepstakes
 - Use responsibly and in accordance with the website's Terms of Service
-- **Enter every day** as allowed by the sweepstakes rules
+- **Enter every day** as allowed by the [sweepstakes official rules](blob:https://rules.gselive.com/c1f61b33-de12-4026-ad7b-db7d37c874ab)
 
 ## Notes
 
@@ -133,5 +133,3 @@ The bot uses Selenium WebDriver to:
 ## License
 
 This project is provided as-is for personal use.
-
-# fifa
